@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCuteOwl&hide=contribs,prs)
+#
 ![Most Used Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true)
-### Hi there 👋
 
 <!--
 **TheCuteOwl/TheCuteOwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
