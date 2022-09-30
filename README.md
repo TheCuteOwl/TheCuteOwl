@@ -12,7 +12,7 @@ My Programming Language
 -----
 <p align="center"> 
   Visits:<br>
-  <img src="https://komarev.com/ghpvc/?username=TheCuteOwl&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=TheCuteOwl&style=for-the-badge"/>
 </p>
 
 * If you see this have a nice day :p
