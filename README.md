@@ -15,7 +15,7 @@
 ----- 
 My Programming Language
 
-![](https://skillicons.dev/icons?i=py)
+![](https://skillicons.dev/icons?i=py) (*Learning*)
 -----
 <p align="center"> 
   Visits:<br>
