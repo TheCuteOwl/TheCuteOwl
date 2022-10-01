@@ -24,5 +24,3 @@ My Programming Language
 
 
 * If you see this have a nice day :p
-
-
