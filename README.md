@@ -10,6 +10,8 @@
  <img src="https://streak-stats.demolab.com?user=TheCuteOwl&theme=nightowl&hide_border=false&border_radius=4.2"/>
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheCuteOwl&layout=compact&langs_count=8&theme=nightowl&locale=en"/>
 
+<img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+
 ----- 
 My Programming Language
 
