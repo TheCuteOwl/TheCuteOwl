@@ -13,9 +13,11 @@
 <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
 ----- 
-My Programming Language
+Tools
 
 ![](https://skillicons.dev/icons?i=py) (*Learning*)
+
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 -----
 <p align="center"> 
   Visits:<br>
@@ -24,3 +26,6 @@ My Programming Language
 
 
 * If you see this have a nice day :p
+
+
+![Fury_Craft](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
