@@ -12,6 +12,7 @@
 
 <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
+ 
 ----- 
 Tools
 
@@ -28,4 +29,5 @@ Tools
 * If you see this have a nice day :p
 
 
-![Fury_Craft](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
