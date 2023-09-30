@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm TheCuteOwl</h1>
 <h3 align="center">A little Python programmer</h3>
 
+<p align="center"><img src="https://lanyard.cnrad.dev/api/807693784036147262?&theme=dark&borderRadius=20px&idleMessage=Doing%20nothing%20right%20now&showDisplayName=true"></a></p>
+
 -----
 
 ```py
