@@ -31,7 +31,9 @@ class Attributes(TheCuteOwl):
 <p align="center">⭐My Stats</p>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=TheCuteOwl&theme=nightowl&hide_border=false&border_radius=4.2"/>
+ <img src="https://streak-stats.demolab.com?user=TheCuteOwl&theme=shadow-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D"/>
+
+<p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheCuteOwl&layout=compact&langs_count=8&theme=nightowl&locale=en"/>
 
 <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
