@@ -3,6 +3,9 @@
 
 <p align="center"><img src="https://lanyard.cnrad.dev/api/807693784036147262?&theme=dark&borderRadius=20px&idleMessage=Doing%20nothing%20right%20now&showDisplayName=true"></a></p>
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TheCuteOwl&theme=discord"</a></p>
+
+
 -----
 
 ```py
@@ -35,7 +38,8 @@ class Attributes(TheCuteOwl):
 
 <p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheCuteOwl&layout=compact&langs_count=8&theme=nightowl&locale=en"/>
-
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCuteOwl&theme=modern-lilac"/>
 <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
  
