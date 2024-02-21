@@ -1,7 +1,6 @@
+# Stopped coding those stuff. Have a nice life everyone👋
+
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+i'm+TheCuteOwl;A+little+Python+programmer"></a></p>
-
-
-<p align="center"><img src="https://lanyard.cnrad.dev/api/807693784036147262?&theme=dark&borderRadius=20px&idleMessage=Doing%20nothing%20right%20now&showDisplayName=true"></a></p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TheCuteOwl&theme=discord"</a></p>
 
